@@ -2,7 +2,7 @@
 
 shortitquick is a lightweight, offline-capable URL shortener tool built entirely in a single HTML file.  
 No installations, no servers, just open the file and start shortening your URLs instantly.  
-It also generates a QR code for each shortened link.
+It also generates a QR code for each shortened link. I have hosted it on **Netlify** https://shortitquick.netlify.app/
 
 ---
 
